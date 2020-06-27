@@ -90,6 +90,9 @@ fabric.properties
 .idea/**/markdown-navigator.xml
 .idea/**/markdown-navigator/
 
+# Compiled class file
+*.class
+
 .idea/
 .gradle/
 *homeworkTDDp/
